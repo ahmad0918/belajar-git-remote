@@ -1,1 +1,2 @@
-fjeifi
+ini adalah file3.txt
+menambah baris di file 3
