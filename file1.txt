@@ -2,3 +2,5 @@ menambah file1.txt
 menambah baris di file 3
 fiture 1
 fiture A
+fiture B
+
