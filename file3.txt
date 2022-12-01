@@ -2,3 +2,4 @@ menambah file 3
 seharusnya masih ada baris ke 2
 fiture 3
 fiture B
+fiture C
